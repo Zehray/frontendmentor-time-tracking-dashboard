@@ -178,6 +178,12 @@ a:hover{
 }
 
 @media only screen and (max-width: 800px) {
+    .container{
+        padding: 100px 0;
+        justify-content: normal;
+        height: 1470px;}
+
+
     .mobile-direction{
         flex-direction: column;
     }
